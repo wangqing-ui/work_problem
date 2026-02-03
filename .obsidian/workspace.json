@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目记录/大华.md",
+                "file": "项目记录/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大华"
+              "title": "未命名"
             }
           }
         ]
@@ -194,12 +194,13 @@
   },
   "active": "5248aa699f079feb",
   "lastOpenFiles": [
-    "学习记录/Clawdbot本地部署及MiniMax集成指南.md",
+    "未命名.base",
+    "项目记录/未命名.md",
     "项目记录/大华.md",
+    "学习记录/Clawdbot本地部署及MiniMax集成指南.md",
     "欢迎.md",
     "学习记录/未命名.md",
     "未命名.md",
-    "未命名.base",
     "学习记录",
     "项目记录",
     "数据库记录"
